@@ -1,0 +1,329 @@
+body {
+  margin: 0;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: center;
+  background-position: center;
+  background-repeat: no-repeat, repeat;
+  background-size: cover;
+  background-color:#C6EBE8;
+
+}
+
+.font-effect-firee {
+  position: relative;
+  font-family: 'Satisfy', 'Dela Gothic One', cursive;
+  margin-top: 0;
+  font-size: 50px;
+  color: #FA9F14;
+    text-shadow: -4px 1px 6px #000000;
+    cursor: pointer;
+     background-color:#C6EBE8;
+}
+
+.alfha {
+  position: relative;
+  margin-top: 0;
+}
+
+.c-first {
+  margin-top: 90px;
+  height: 100px;
+  transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+
+.c-sec {
+  width: 1330px;
+  margin-bottom: -103px;
+}
+
+.c-first:hover {
+  transform: rotate3d(0, 1, 0.5, 6.148rad);
+}
+
+.Course {
+  color: #FFFFFF;
+      font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+  text-shadow: -4px 1px 6px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  padding: 40px;
+  font-size: 30px;
+  font-weight: 100;
+
+}
+
+.Course:hover{
+  color: black;
+  background-color:#F0D384;
+}
+
+.Contact {
+  color: #FFFFFF;
+    font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+  font-size: 30px;
+  font-weight: 100;
+  text-shadow: -4px 1px 6px #000000;
+  border: solid #337FED 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  padding: 40px;
+}
+.Contact:hover{
+  color: black;
+  background-color:#F0D384;
+}
+
+.About{
+  color: #FFFFFF;
+    font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+  font-size: 30px;
+  font-weight: 100;
+  text-shadow: -4px 1px 6px #000000;
+  border: solid #337FED 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  padding: 40px;
+}
+.About:hover{
+  color: black;
+  background-color:#F0D384;
+}
+
+.Home{
+  color: #FFFFFF;
+    font-family: sf pro text,-apple-system,BlinkMacSystemFont,Roboto,segoe ui,Helvetica,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
+  font-size: 30px;
+  font-weight: 100;
+  text-shadow: -4px 1px 6px #000000;
+  border: solid #337FED 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  padding: 40px;
+}
+.Home:hover{
+  color: black;
+  background-color:#F0D384;
+}
+
+.c-thir {
+  height: 100px;
+    margin-top: 50px;
+  right: 10px;
+  position: absolute;
+  transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+
+.c-thir:hover {
+  transform: rotate(360deg);
+}
+
+a {
+  text-align: center;
+}
+
+span {
+  text-align: right;
+  margin: 0 auto 0 auto;
+  margin-top: 100px;
+}
+.pro{
+  text-decoration: underline;
+}
+.c-four{
+  height: 100px;
+    margin-top: 50px;
+  left: 10px;
+  position: absolute;
+  transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+.c-four:hover{
+  transform: rotate(360deg);
+}
+
+.OG{
+  color: #FA9F14;
+  font-family: 'Oswald', sans-serif;
+}
+.HP{
+  font-family: 'Oswald', sans-serif;
+  color: #FA9F14;}
+
+
+.GIT{
+    font-family: 'Oswald', sans-serif;
+    color: #FA9F14;}
+    .LI{
+      color: #11999E;
+    }
+    .LD{
+      color: #11999E;
+    }
+    .LDSNT{
+      color: #11999E;
+    }
+
+.wc{
+  height: 250px;
+  width: 250px;
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.hexa{
+  border: dotted #EAF6F6 6px;
+}
+.lined{
+  border: dotted #EAF6F6;
+  border-bottom: none;
+
+}
+.whocode{
+  margin-top: 50px;
+    transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+.whocode:hover{
+    transform: rotate(360deg);
+}
+.howtu{
+  margin-top: 10px;
+  margin-bottom: 60px;
+  border: dotted #EAF6F6;
+  border-bottom: none;
+}
+
+.btn {
+   background: #118BD4;
+   background-image: -webkit-linear-gradient(top, #118BD4, #11CBD4);
+   background-image: -moz-linear-gradient(top, #118BD4, #11CBD4);
+   background-image: -ms-linear-gradient(top, #118BD4, #11CBD4);
+   background-image: -o-linear-gradient(top, #118BD4, #11CBD4);
+   background-image: -webkit-gradient(to bottom, #118BD4, #11CBD4);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family:  'Oswald', sans-serif;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 22px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #30E3CD;
+   background-image: -webkit-linear-gradient(top, #30E3CD, #3D94F6);
+   background-image: -moz-linear-gradient(top, #30E3CD, #3D94F6);
+   background-image: -ms-linear-gradient(top, #30E3CD, #3D94F6);
+   background-image: -o-linear-gradient(top, #30E3CD, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #30E3CD, #3D94F6);
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+   text-decoration: none;
+}
+
+.yt-btn {
+   background: #EB2E13;
+   background-image: -webkit-linear-gradient(top, #EB2E13, #EB2E13);
+   background-image: -moz-linear-gradient(top, #EB2E13, #EB2E13);
+   background-image: -ms-linear-gradient(top, #EB2E13, #EB2E13);
+   background-image: -o-linear-gradient(top, #EB2E13, #EB2E13);
+   background-image: -webkit-gradient(to bottom, #EB2E13, #EB2E13);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family:  'Oswald', sans-serif;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 18px;
+   -webkit-box-shadow: 1px -4px 33px 0 #FFFFFF;
+   -moz-box-shadow: 1px -4px 33px 0 #FFFFFF;
+   box-shadow: 1px -4px 33px 0 #FFFFFF;
+   text-shadow: -4px 1px 6px #000000;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-left: 50px;
+}
+
+.yt-btn:hover {
+   border: solid #337FED 1px;
+   background: #EB2E13;
+   background-image: -webkit-linear-gradient(top, #EB2E13, #EB5630);
+   background-image: -moz-linear-gradient(top, #EB2E13, #EB5630);
+   background-image: -ms-linear-gradient(top, #EB2E13, #EB5630);
+   background-image: -o-linear-gradient(top, #EB2E13, #EB5630);
+   background-image: -webkit-gradient(to bottom,#EB2E12, #EB2E12);
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+   text-decoration: none;
+}
+.ko-btn {
+   background: #EBBF13;
+   background-image: -webkit-linear-gradient(top, #EBBF13, #EB8213);
+   background-image: -moz-linear-gradient(top, #EBBF13, #EB8213);
+   background-image: -ms-linear-gradient(top, #EBBF13, #EB8213);
+   background-image: -o-linear-gradient(top, #EBBF13, #EB8213);
+   background-image: -webkit-gradient(to bottom, #EBBF13, #EB8213);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family:  'Oswald', sans-serif;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 18px;
+   -webkit-box-shadow: 1px -4px 33px 0 #FFFFFF;
+   -moz-box-shadow: 1px -4px 33px 0 #FFFFFF;
+   box-shadow: 1px -4px 33px 0 #FFFFFF;
+   text-shadow: -4px 1px 6px #000000;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.ko-btn:hover {
+   border: solid #337FED 1px;
+   background: #EB8213;
+   background-image: -webkit-linear-gradient(top, #EB8213, #EBBF13);
+   background-image: -moz-linear-gradient(top, #EB8213, #EBBF13);
+   background-image: -ms-linear-gradient(top, #EB8213, #EBBF13);
+   background-image: -o-linear-gradient(top, #EB8213, #EBBF13);
+   background-image: -webkit-gradient(to bottom, #EB8213, #EBBF13);
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+   text-decoration: none;
+}
+.bottom-container{
+  background-color: black;
+  padding: 10px 0 10px;
+}
+.cr{
+  color: white;
+}
